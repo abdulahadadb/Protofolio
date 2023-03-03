@@ -7,17 +7,6 @@
 
 }
 
-.img1 {
-    height: 30px;
-
-}
-
-.img2 {
-    /* margin-top: 50px; */
-
-}
-
-
 .h {
     margin-left: 400px;
     margin-top: -50px;
@@ -108,7 +97,7 @@
 }
 
 .port {
-    color: yellow;
+    color: rgb(33, 44, 44);
 }
 
 .port1 {
